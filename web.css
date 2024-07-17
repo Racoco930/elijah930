@@ -1,0 +1,17 @@
+.myphoto-132 {
+    width: 70px;
+    height: 70px;
+    border-radius: 60px;
+    float: left;
+    margin-right: 10px;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: cadetblue;
+}
+a:visited {
+    color: color-mix(in srgb, color percentage, color percentage);
+}
